@@ -94,7 +94,7 @@
         }
     ],
     "url": "https://github.com/APunktX/HeXXen-Zusatz",
-    "manifest": "https://github.com/APunktX/HeXXen-Zusatz/releases/latest/download/module.json",
+    "manifest": "https://github.com/APunktX/HeXXen-Zusatz/blob/main/module.json",
     "download": "https://github.com/APunktX/HeXXen-Zusatz/blob/main/Module.zip",
     "license": "LICENSE",
     "readme": "README.md",
